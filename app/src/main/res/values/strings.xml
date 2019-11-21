@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SportJet</string>
+
+    <!-- Status connection  -->
+    <string name="connection_try">Connexion en cours…</string>
+    <string name="connection_successful">Connexion avec l’afficheur réussi.</string>
+    <string name="connection_error">Connexion impossible.</string>
+
+    <!-- Status  etats -->
+    <string name="status_connection_lose">Connexion avec le serveur interrompue…</string>
+    <string name="status_connection_back">Connexion rétablie…</string>
+
+    <!-- Buttons  -->
+    <string name="btn_start">LANCER LA PARTIE</string>
+    <string name="btn_end">TERMINER LA PARTIE</string>
+
+    <!-- label equipe -->
+    <string name="label_equipe1">Equipe 1</string>
+    <string name="label_equipe2">Equipe 2</string>
+
+    <!-- label place  -->
+    <string name="label_local">Locale</string>
+    <string name="label_visitor">Visiteur</string>
+
+    <!-- label UI  -->
+    <string name="title_chrono">Chronomètre</string>
+    <string name="title_score">Score</string>
+
+</resources>

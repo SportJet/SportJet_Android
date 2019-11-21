@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SportJet</string>
+    <string name="btn_end">END THE GAME</string>
+    <string name="btn_start">START THE GAME</string>
+    <string name="connection_error">Unable to connect.</string>
+    <string name="connection_successful">Successfully connected with the display.</string>
+    <string name="connection_try">Connection in progress...</string>
+    <string name="label_equipe1">Team 1</string>
+    <string name="label_equipe2">Team 2</string>
+    <string name="label_local">Local</string>
+    <string name="label_visitor">Visitor</string>
+    <string name="status_connection_back">Connection restored...</string>
+    <string name="status_connection_lose">Server connection interrupted...</string>
+    <string name="title_chrono">Chronometer</string>
+    <string name="title_score">Score</string>
+</resources>
