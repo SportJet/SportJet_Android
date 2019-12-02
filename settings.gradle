@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='SportJet'
+rootProject.name='android_controler'
